@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Lasagna
   - Bomb
+  - Score
   layers:
   - Default
   - TransparentFX
